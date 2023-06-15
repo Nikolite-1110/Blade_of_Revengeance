@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 78538877d3f9d405da7300cb24e4b87a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - displayCard: {instanceID: 0}
+  - cardDataBase: {fileID: 11400000, guid: 79fac381bacb0684791fbbb22cefdef7, type: 2}
+  - startTopIcon: {fileID: -457005120, guid: ab5856da484194d889e02bd0290b34e5, type: 3}
+  - startButtomIcon: {fileID: 1231743964, guid: ab5856da484194d889e02bd0290b34e5, type: 3}
+  - startLeftIcon: {fileID: -457005120, guid: ab5856da484194d889e02bd0290b34e5, type: 3}
+  - startRightIcon: {fileID: -2069196985, guid: ab5856da484194d889e02bd0290b34e5, type: 3}
+  - startNoneIcon: {fileID: 1334106126, guid: 9ea1c22854cec4669aadde398eac4919, type: 3}
+  - endTopIcon: {fileID: -27869372, guid: 9ea1c22854cec4669aadde398eac4919, type: 3}
+  - endButtomIcon: {fileID: -659451478, guid: 9ea1c22854cec4669aadde398eac4919, type: 3}
+  - endLeftIcon: {fileID: 2102276184, guid: 9ea1c22854cec4669aadde398eac4919, type: 3}
+  - endRightIcon: {fileID: 935377449, guid: 9ea1c22854cec4669aadde398eac4919, type: 3}
+  - endNoneIcon: {fileID: 1334106126, guid: 9ea1c22854cec4669aadde398eac4919, type: 3}
+  - topImage: {instanceID: 0}
+  - bottomImage: {instanceID: 0}
+  - leftImage: {instanceID: 0}
+  - rightImage: {instanceID: 0}
+  - text: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
